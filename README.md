@@ -1,6 +1,4 @@
-Deck of Cards
-
-Practice with classes
+**Deck of Cards**
 
 This creates a class Card with attributes suit and value and a method that returns black or red depending on the suit.
 
